@@ -5,7 +5,7 @@ published: true
 title: Hadoop MapReduce
 author: m-messiah
 author_login: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://github.com/m-messiah
 date: 2013-09-13 15:52:03.000000000 +06:00
 categories: ROT

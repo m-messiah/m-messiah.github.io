@@ -5,7 +5,7 @@ published: true
 title: GlusterFS Cache. Part 1
 author: m-messiah
 author_login: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://github.com/m-messiah
 date: 2014-02-28 16:00:00 +06:00
 categories: network

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Ploop snapshot
 author: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://m-messiah.com
 date: 2016-10-12 09:55:00.000000000 +03:00
 categories: linux

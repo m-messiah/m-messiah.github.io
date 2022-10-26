@@ -4,7 +4,7 @@ status: publish
 published: true
 title: OLE DB
 author: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://github.com/m-messiah
 date: 2014-01-21 16:00:00 +06:00
 excerpt: "Презентация про OLE DB: что это, с чем это едят и как с этим работать."

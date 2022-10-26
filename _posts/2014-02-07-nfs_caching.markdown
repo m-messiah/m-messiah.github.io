@@ -5,7 +5,7 @@ published: true
 title: NFS Caching
 author: m-messiah
 author_login: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://github.com/m-messiah
 date: 2014-02-07 15:00:00 +06:00
 categories: network linux
@@ -132,7 +132,7 @@ NFS абстрагирован от локальных файловых сист
 <div><iframe src="https://docs.google.com/presentation/d/17g7TlaeqOOZDYN_AyADUVuuing046npr0y4uaTZNkPk/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="541" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 
-## Список литературы: #
+## Список литературы: ##
 
 +   Managing NFS and NIS
     Авторы: Mike Eisler,Ricardo Labiaga,Hal Stern

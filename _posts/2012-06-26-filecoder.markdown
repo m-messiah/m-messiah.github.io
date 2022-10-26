@@ -5,7 +5,7 @@ published: true
 title: Конвертер кодировок
 author: m-messiah
 author_login: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://github.com/m-messiah
 excerpt: "Решение задачи о конвертировании кодировки файла на Java"
 date: 2012-06-26 21:49:59.000000000 +06:00

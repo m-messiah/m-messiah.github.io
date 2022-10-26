@@ -5,7 +5,7 @@ published: true
 title: RuCTFE 2015. Ministry of Love. Разбор
 author: m-messiah
 author_login: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://m-messiah.ru
 categories: python web ctf
 tags: []
