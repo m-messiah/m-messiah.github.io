@@ -5,7 +5,7 @@ published: true
 title: Баланс скобок
 author: m-messiah
 author_login: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://github.com/m-messiah
 date: 2012-06-26 21:40:24.000000000 +06:00
 excerpt: Решение задачи о балансе скобок на JAVA

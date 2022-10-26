@@ -5,7 +5,7 @@ published: true
 title: Ural SchoolCTF
 author: m-messiah
 author_login: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://github.com/m-messiah
 date: 2013-04-20 15:00:00 +06:00
 categories: ctf
@@ -94,7 +94,7 @@ comments: true
 +   Вопросы не перемешиваются.
 +   Надо правильно ответить на 450 вопросов,
 
-#### D. Дан образ дискеты, на котором лежит calc.exe. Найти ответ))) [Дискета](http://school.uralctf.ru/static/quest/floppy.img)####
+#### D. Дан образ дискеты, на котором лежит calc.exe. Найти ответ))) [Дискета](http://school.uralctf.ru/static/quest/floppy.img)#### ####
 
 *Калькулятор необычный, при делении на ноль он всегда выдаёт разные ответы.*
 *Если найти строку, которую поделить на 0, калькулятор выдаст верный ответ. Во всём остальном - он обычный.*

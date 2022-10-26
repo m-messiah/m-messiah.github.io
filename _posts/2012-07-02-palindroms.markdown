@@ -5,7 +5,7 @@ published: true
 title: Числа-палиндромы
 author: m-messiah
 author_login: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://github.com/m-messiah
 excerpt: "<h1>Задача №14</h1>
 	По заданному числу М строится последовательность, в которой первый элемент равен М, а каждый следующий - полусумма элемента и его перевертыша.<br>

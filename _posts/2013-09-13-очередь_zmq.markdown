@@ -5,7 +5,7 @@ published: true
 title: Очередь ZMQ
 author: m-messiah
 author_login: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://github.com/m-messiah
 date: 2013-09-13 16:20:58.000000000 +06:00
 categories: ROT

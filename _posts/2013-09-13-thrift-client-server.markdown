@@ -5,7 +5,7 @@ published: true
 title: Thrift client-server
 author: m-messiah
 author_login: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://github.com/m-messiah
 date: 2013-09-13 16:30:50.000000000 +06:00
 categories: ROT

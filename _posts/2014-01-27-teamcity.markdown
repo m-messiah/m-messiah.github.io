@@ -5,7 +5,7 @@ published: true
 title: TeamCity deploy
 author: m-messiah
 author_login: m-messiah
-author_email: m.muzafarov@gmail.com
+author_email: max@m-messiah.cc
 author_url: https://github.com/m-messiah
 date: 2014-01-27 15:00:00 +06:00
 categories: algorithms
